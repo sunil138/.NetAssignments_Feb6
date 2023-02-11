@@ -1,0 +1,8 @@
+C:\Users\ST293YY\source\repos\BankDetails_Feb6\BankDetails_Feb6\bin\Debug\BankDetails_Feb6.exe.config
+C:\Users\ST293YY\source\repos\BankDetails_Feb6\BankDetails_Feb6\bin\Debug\BankDetails_Feb6.exe
+C:\Users\ST293YY\source\repos\BankDetails_Feb6\BankDetails_Feb6\bin\Debug\BankDetails_Feb6.pdb
+C:\Users\ST293YY\source\repos\BankDetails_Feb6\BankDetails_Feb6\obj\Debug\BankDetails_Feb6.csproj.AssemblyReference.cache
+C:\Users\ST293YY\source\repos\BankDetails_Feb6\BankDetails_Feb6\obj\Debug\BankDetails_Feb6.csproj.SuggestedBindingRedirects.cache
+C:\Users\ST293YY\source\repos\BankDetails_Feb6\BankDetails_Feb6\obj\Debug\BankDetails_Feb6.csproj.CoreCompileInputs.cache
+C:\Users\ST293YY\source\repos\BankDetails_Feb6\BankDetails_Feb6\obj\Debug\BankDetails_Feb6.exe
+C:\Users\ST293YY\source\repos\BankDetails_Feb6\BankDetails_Feb6\obj\Debug\BankDetails_Feb6.pdb
